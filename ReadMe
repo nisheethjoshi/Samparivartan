@@ -1,0 +1,15 @@
+Samparivartan
+A English to Hindi Transliteration Tool
+
+Purpose:
+The Samparivartan, copyright Banasthali Vidyapeeth, has been developed for the purpose of facilitating Natural Language Processing applications. The whole system contains:
+
+A Tool (Offline Java Swing based Tool)
+The database (MySql) Browser: ------------ The Samparivartan is a Graphical User Interface to transliterate English Text in to Hindi by means of two methods 1-Prediction 2.Phonetic transliteration. The users input words in Transliterated form. The results that is displayed is the Hindi text with prediction in a PopupMenu.
+REQUIREMENTS:
+This software needs the JAVA's JRE 6 version or higher to function properly. Windows 2000/XP/windows vista and above with Indian Language Pack Linux with Indian Language Pack(Unicode support for Devnagari) Uinx with Indian Language Pack(Unicode support for Devnagari) 4 GB free Disk Space 128MB RAM or higher
+
+Send bug-reports etc to: nisheethjoshi@rediffmail.com
+
+If you wish to cite this tool then cite the following paper ::
+Joshi, N., I. Mathur, and S. Mathur. "Frequency based predictive input system for Hindi." Proceedings of the International Conference and Workshop on Emerging Trends in Technology. ACM, 2010.
